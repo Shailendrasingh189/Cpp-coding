@@ -26,6 +26,7 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Maximum subarray sum 2** - leetcode 53 (Kadane's algorithm)
 - [ ] **Pair sum** - binary search approach
 - [ ] **Pair sum 2** - two pointer approach
+- [ ] **Peak Index in Mountain Array** - Binary search approach
 - [ ] **Power function** - leetcode 50
 - [ ] **Product of array** - leetcode 238 (brute force)
 - [ ] **Product of array 2** - leetcode 238 (optimized)

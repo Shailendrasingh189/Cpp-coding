@@ -13,6 +13,7 @@ This repository is organized into multiple folders, each containing various prog
 #### 🔹 [Array Data Structure](./Array%20data%20structure/)  
 Implementation of arrays and **solutions to various LeetCode problems with different approaches**.  
 
+- [ ] **Aggressive Cows Problem** - binary search approach
 - [ ] **Buy and sell** - leetcode 121
 - [ ] **Binary search** - using iterative method
 - [ ] **Binary search 2** - using recursive method

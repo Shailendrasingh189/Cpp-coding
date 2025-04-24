@@ -35,6 +35,7 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Product of array** - leetcode 238 (brute force)
 - [ ] **Product of array 2** - leetcode 238 (optimized)
 - [ ] **Reverse array** - to reverse an array
+- [ ] **Selection sort** - selection sort algorithm
 - [ ] **Small and large in array** - small and laarge element in array
 - [ ] **Sum product in array** - sum and product of an array
 - [ ] **Swap max min in array** - to swap max and min elements of an array

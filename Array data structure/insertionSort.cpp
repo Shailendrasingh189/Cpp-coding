@@ -1,20 +1,20 @@
 #include <iostream>
 using namespace std;
-// selection sort algorithm
+// insertionSort sort algorithm
 
-void selectionSort(int arr[], int n)
+void insertionSort(int arr[], int n)
 {
-    for (int i = 0; i < n - 1; i++)
+    for (int i = 1; i < n; i++)
     {
-        int smallestIdx = i;
-        for (int j = i + 1; j < n; j++)
+        int curr = arr[i];
+        int prev = i -1;
+        while (prev >=0 && arr[prev] > curr)
         {
-            if (arr[j] < arr[smallestIdx])
-            {
-                smallestIdx = j;
-            }
+            arr[prev + 1] = arr[prev];
+            prev--;
         }
-        swap(arr[i], arr[smallestIdx]);
+        arr[prev +1] = curr;
+        
     }
 }
 
@@ -32,7 +32,7 @@ int main()
     int arr[] = {64, 34, 25, 12, 22, 11, 90};
     int n = 7;
 
-    selectionSort(arr, n);
+    insertionSort(arr, n);
     printArray(arr, n);
 
     return 0;

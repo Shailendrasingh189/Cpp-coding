@@ -22,6 +22,7 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Rotated sorted array 3** - leetcode 33
 - [ ] **Container with most water** - leetcode 21 (brute force)
 - [ ] **Container with most water 2** - leetcode 21 (using two pointer approach)
+- [ ] **Insertion sort** - Insertion sort alogrithm
 - [ ] **Linear Search** - linear search algorithm
 - [ ] **Majority element** - leetcode 169 (brute force)
 - [ ] **Majority element 2** - leetcode 169 (moore's voting algorithm)
@@ -38,4 +39,5 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Selection sort** - selection sort algorithm
 - [ ] **Small and large in array** - small and laarge element in array
 - [ ] **Sum product in array** - sum and product of an array
+- [ ] **Sort Colors** - optimized approach
 - [ ] **Swap max min in array** - to swap max and min elements of an array

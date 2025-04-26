@@ -1,7 +1,8 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-// optimized approach
+// optimized approach - TC - O(n) SC - O(1)
+// with single loop
 
 int main()
 {

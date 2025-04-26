@@ -28,6 +28,7 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Majority element 2** - leetcode 169 (moore's voting algorithm)
 - [ ] **Maximum subarray sum** - leetcode 53 (brute force)
 - [ ] **Maximum subarray sum 2** - leetcode 53 (Kadane's algorithm)
+- [ ] **Merge 2 Sorted Arrays** - leetcode 88 
 - [ ] **Painter's Partition Problem** - binary Search approach
 - [ ] **Pair sum** - binary search approach
 - [ ] **Pair sum 2** - two pointer approach

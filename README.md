@@ -47,4 +47,5 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 #### 🔹 [String in C++ programs](./Strings/)
 Implementation of strings and **solutions to various LeetCode problems with different approaches**.  
 
-- [ ] *Reverse string - leetcode 344
+- [ ] **Reverse string** - leetcode 344
+- [ ] **Reverse string** - to reverse a string using reverse function directly

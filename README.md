@@ -50,3 +50,4 @@ Implementation of strings and **solutions to various LeetCode problems with diff
 - [ ] **Reverse string** - leetcode 344
 - [ ] **Reverse string** - to reverse a string using reverse function directly
 - [ ] **Valid Palindrome** - leetcode 125
+- [ ] **Remove all occurrences** - leetcode 1910

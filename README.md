@@ -44,10 +44,11 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Sort Colors** - optimized approach
 - [ ] **Swap max min in array** - to swap max and min elements of an array
 
-#### 🔹 [String in C++ programs](./Strings/)
+#### 🔹 [String and other problems in C++ programs](./Strings/)
 Implementation of strings and **solutions to various LeetCode problems with different approaches**.  
 
 - [ ] **count prime numbers** - leetcode 204
+- [ ] **GCD** - gcd program using Euclid's Algorithm
 - [ ] **Permutation in String** - leetcode 567
 - [ ] **Remove all occurrences** - leetcode 1910
 - [ ] **Reverse Words in string** - leetcode 151

@@ -49,6 +49,7 @@ Implementation of strings and **solutions to various LeetCode problems with diff
 
 - [ ] **count prime numbers** - leetcode 204
 - [ ] **GCD** - gcd program using Euclid's Algorithm
+- [ ] **Palindrome Number** - leetcode 9
 - [ ] **Permutation in String** - leetcode 567
 - [ ] **Remove all occurrences** - leetcode 1910
 - [ ] **Reverse Words in string** - leetcode 151

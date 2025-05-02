@@ -52,6 +52,7 @@ Implementation of strings and **solutions to various LeetCode problems with diff
 - [ ] **Permutation in String** - leetcode 567
 - [ ] **Remove all occurrences** - leetcode 1910
 - [ ] **Reverse Words in string** - leetcode 151
+- [ ] **Reverse Integer** - leetcode 7
 - [ ] **Reverse string** - leetcode 344
 - [ ] **Reverse string** - to reverse a string using reverse function directly
 - [ ] **String Compression** - leetcode 443

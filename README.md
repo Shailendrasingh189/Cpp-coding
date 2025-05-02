@@ -47,6 +47,7 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 #### 🔹 [String in C++ programs](./Strings/)
 Implementation of strings and **solutions to various LeetCode problems with different approaches**.  
 
+- [ ] **count prime numbers** - leetcode 204
 - [ ] **Permutation in String** - leetcode 567
 - [ ] **Remove all occurrences** - leetcode 1910
 - [ ] **Reverse Words in string** - leetcode 151

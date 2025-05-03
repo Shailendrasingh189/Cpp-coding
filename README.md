@@ -24,8 +24,10 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Container with most water 2** - leetcode 21 (using two pointer approach)
 - [ ] **Insertion sort** - Insertion sort alogrithm
 - [ ] **Linear Search** - linear search algorithm
+- [ ] **Linear Search Matrix** - linear search in 2D array
 - [ ] **Majority element** - leetcode 169 (brute force)
 - [ ] **Majority element 2** - leetcode 169 (moore's voting algorithm)
+- [ ] **Maximum row sum in matrix** - Maximum row sum problem in matrix
 - [ ] **Maximum subarray sum** - leetcode 53 (brute force)
 - [ ] **Maximum subarray sum 2** - leetcode 53 (Kadane's algorithm)
 - [ ] **Merge 2 Sorted Arrays** - leetcode 88 

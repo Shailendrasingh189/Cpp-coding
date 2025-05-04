@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+// Binary search approach - O(log n * m) time complexity
 
 bool searchMatrix(vector<vector<int>> &matrix, int target, int row)
 {

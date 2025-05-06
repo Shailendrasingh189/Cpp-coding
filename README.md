@@ -24,6 +24,7 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Container with most water** - leetcode 21 (brute force)
 - [ ] **Container with most water 2** - leetcode 21 (using two pointer approach)
 - [ ] **Diagonal Sum in Matrix** - Diagonal sum in 2d arrays
+- [ ] **Find Duplicate** - Slow fast approach
 - [ ] **Find Missing and Repeating values** - using hashing, leetcode 2965
 - [ ] **Insertion sort** - Insertion sort alogrithm
 - [ ] **Linear Search** - linear search algorithm

@@ -53,6 +53,7 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Small and large in array** - small and laarge element in array
 - [ ] **Sum product in array** - sum and product of an array
 - [ ] **Sort Colors** - optimized approach
+- [ ] **Sub Array Sum Equal K** - using prefix approach
 - [ ] **Swap max min in array** - to swap max and min elements of an array
 
 #### 🔹 [String and other problems in C++ programs](./Strings/)

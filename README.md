@@ -16,6 +16,7 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **2Sum problem** - leetcode 1, using hashing
 - [ ] **3Sum problem** - using hashing
 - [ ] **3Sum problem** - using two pointer approach
+- [ ] **4Sum problem** - using two pointer approach
 - [ ] **Aggressive Cows Problem** - binary search approach
 - [ ] **Buy and sell** - leetcode 121
 - [ ] **Binary search** - using iterative method

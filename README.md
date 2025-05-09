@@ -13,7 +13,9 @@ This repository is organized into multiple folders, each containing various prog
 #### 🔹 [Array Data Structure](./Array%20data%20structure/)  
 Implementation of arrays and **solutions to various LeetCode problems with different approaches**.  
 
-- [ ] **2 sum problem** - leetcode 1, using hashing
+- [ ] **2Sum problem** - leetcode 1, using hashing
+- [ ] **3Sum problem** - using hashing
+- [ ] **3Sum problem** - using two pointer approach
 - [ ] **Aggressive Cows Problem** - binary search approach
 - [ ] **Buy and sell** - leetcode 121
 - [ ] **Binary search** - using iterative method

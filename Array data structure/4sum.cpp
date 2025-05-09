@@ -21,6 +21,9 @@ vector<vector<int>> fourSum(vector<int> &nums, int target)
 
         for (int j = i + 1; j < n; j++)
         {
+            if (j > i + 1 && nums[j] == nums[j - 1])
+                continue;
+
             int p = j + 1, q = n - 1;
 
             while (p < q)
@@ -38,20 +41,14 @@ vector<vector<int>> fourSum(vector<int> &nums, int target)
                 else // sum == target
                 {
                     ans.push_back({nums[i], nums[j], nums[p], nums[q]});
-
-                    while (p < q && nums[p] == nums[p + 1])
-                        p++;
-                    while (p < q && nums[q] == nums[q - 1])
-                        q--;
-
                     p++;
                     q--;
+
+                    while (p < q && nums[p] == nums[p - 1])
+                        p++;
+                    while (p < q && nums[q] == nums[q + 1])
+                        q--;
                 }
-            }
-            j++;
-            while (j < n && nums[j] == nums[j - 1])
-            {
-                j++;
             }
         }
     }

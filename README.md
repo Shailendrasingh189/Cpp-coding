@@ -47,7 +47,7 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Product of array** - leetcode 238 (brute force)
 - [ ] **Product of array 2** - leetcode 238 (optimized)
 - [ ] **Reverse array** - to reverse an array
-- [ ] **Search In Matrix** - using binary search approach, leetcode 74
+- [ ] **Search In Matrx ix** - using binary search approach, leetcode 74
 - [ ] **Search In Matrix II** - using binary search approach, leetcode 240
 - [ ] **Selection sort** - selection sort algorithm
 - [ ] **Small and large in array** - small and laarge element in array
@@ -70,3 +70,8 @@ Implementation of strings and **solutions to various LeetCode problems with diff
 - [ ] **Reverse string** - to reverse a string using reverse function directly
 - [ ] **String Compression** - leetcode 443
 - [ ] **Valid Palindrome** - leetcode 125
+
+#### 🔹 [Recursion](./Recursion/)  
+Programs demonstrating and use of **recursion in problem-solving techniques**
+
+- [ ] **N Sum** - sum of n values using recursion

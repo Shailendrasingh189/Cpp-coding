@@ -9,7 +9,7 @@ bool isArraySorted(vector<int> arr, int n)
         return true;
     }
 
-    return isArraySorted(arr, n - 1) && (arr[n - 1] >= arr[n - 2]);
+    return (arr[n - 1] >= arr[n - 2]) && isArraySorted(arr, n - 1);
 }
 
 int main()

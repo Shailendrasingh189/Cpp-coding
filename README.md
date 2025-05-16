@@ -82,5 +82,6 @@ Programs demonstrating and use of **recursion in problem-solving techniques**
 - [ ] **N Sum** - sum of n values using recursion
 - [ ] **Permutations** - permutations in array using recursion, leetcode 46
 - [ ] **Print all subsets** - using recursion, leetcode 78
+- [ ] **Rat in a maze** - Rat in a maze using recursion
 - [ ] **Subsets II** - skip duplicates using recursion, leetcode 90
 - [ ] **Sudoku solver** - leetcode 37 using recursion

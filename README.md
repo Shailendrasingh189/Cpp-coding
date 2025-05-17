@@ -75,6 +75,7 @@ Implementation of strings and **solutions to various LeetCode problems with diff
 Programs demonstrating and use of **recursion in problem-solving techniques**
 
 - [ ] **Binary Search** - leetcode 704 using recursion
+- [ ] **Combination Sum I** - leetcode 39
 - [ ] **Factorial** - factorial using recursion
 - [ ] **Fabonacci problem** - leetcode 509
 - [ ] **Check if array is sorted** - using recursion 

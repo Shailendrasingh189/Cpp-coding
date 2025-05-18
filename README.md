@@ -81,6 +81,7 @@ Programs demonstrating and use of **recursion in problem-solving techniques**
 - [ ] **Check if array is sorted** - using recursion 
 - [ ] **N Queens** - leetcode 51
 - [ ] **N Sum** - sum of n values using recursion
+- [ ] **Palindrome Partitioning** - leetcode 131
 - [ ] **Permutations** - permutations in array using recursion, leetcode 46
 - [ ] **Print all subsets** - using recursion, leetcode 78
 - [ ] **Rat in a maze** - Rat in a maze using recursion

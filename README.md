@@ -85,6 +85,7 @@ Programs demonstrating and use of **recursion in problem-solving techniques**
 - [ ] **Palindrome Partitioning** - leetcode 131
 - [ ] **Permutations** - permutations in array using recursion, leetcode 46
 - [ ] **Print all subsets** - using recursion, leetcode 78
+- [ ] **Quick Sort** - Quick sort using recursion
 - [ ] **Rat in a maze** - Rat in a maze using recursion
 - [ ] **Subsets II** - skip duplicates using recursion, leetcode 90
 - [ ] **Sudoku solver** - leetcode 37 using recursion

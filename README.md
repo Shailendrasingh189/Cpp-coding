@@ -79,6 +79,7 @@ Programs demonstrating and use of **recursion in problem-solving techniques**
 - [ ] **Factorial** - factorial using recursion
 - [ ] **Fabonacci problem** - leetcode 509
 - [ ] **Check if array is sorted** - using recursion 
+- [ ] **Count Inversion** - Using merge sort
 - [ ] **Merge Sort Algorithm** - using recursion
 - [ ] **N Queens** - leetcode 51
 - [ ] **N Sum** - sum of n values using recursion

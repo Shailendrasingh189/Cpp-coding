@@ -71,6 +71,11 @@ Implementation of strings and **solutions to various LeetCode problems with diff
 - [ ] **String Compression** - leetcode 443
 - [ ] **Valid Palindrome** - leetcode 125
 
+#### 🔹[Linked-List](./LinkedList/)
+Implementation of Linked List and solutions to various Leetcode problems with different approaches.
+
+- [ ] **Single Linked-List** - program for linked list implementation 
+
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating and use of **recursion in problem-solving techniques**
 

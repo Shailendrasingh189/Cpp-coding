@@ -74,6 +74,7 @@ Implementation of strings and **solutions to various LeetCode problems with diff
 #### 🔹[Linked-List](./LinkedList/)
 Implementation of Linked List and solutions to various Leetcode problems with different approaches.
 
+- [ ] **Detect Cycle in Linked List** - leetcode 141
 - [ ] **Single Linked-List** - program for linked list implementation 
 - [ ] **Middle of Linked List** - leetcode 876
 - [ ] **Reverse Linked List** - problem 206 in leetcode

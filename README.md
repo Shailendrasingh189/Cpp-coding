@@ -75,7 +75,8 @@ Implementation of strings and **solutions to various LeetCode problems with diff
 Implementation of Linked List and solutions to various Leetcode problems with different approaches.
 
 - [ ] **Detect Cycle in Linked List** - leetcode 141
--[ ] **Doubly Linked List** - Doubly linked list implementation
+- [ ] **Doubly Linked List** - Doubly linked list implementation
+- [ ] **Circular Linked List** - Implementation of circular linked list
 - [ ] **Copy List with random pointer** - leetcode 138 
 - [ ] **Cycle in Linked List II** - leetcode 142, Find start node of cycle
 - [ ] **Single Linked-List** - program for linked list implementation 

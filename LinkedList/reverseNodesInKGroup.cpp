@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
-// using recursion
+// T.C.: O(n)
+// S.C. : O(n/k) for recursion stack
 
-class Node // class to create a node
+class Node
 {
 public:
     int data;
@@ -11,35 +12,45 @@ public:
     Node(int val)
     {
         data = val;
-        next = NULL;
+        next = nullptr;
     }
 };
 
-class List // class to add, delete, print and search nodes
+class List
 {
-    Node *head;
-    Node *tail;
-
 public:
+    Node *head;
+
     List()
     {
-        head = tail = NULL;
+        head = nullptr;
     }
 
-    void push_back(int val) // add node on back or end of linked list
+    void push_back(int val)
     {
         Node *newNode = new Node(val);
-
-        if (head == NULL) // empty linked list
+        if (!head)
         {
-            head = tail = newNode;
+            head = newNode;
             return;
         }
-        else // not empty
+
+        Node *temp = head;
+        while (temp->next)
+            temp = temp->next;
+
+        temp->next = newNode;
+    }
+
+    void printList()
+    {
+        Node *temp = head;
+        while (temp)
         {
-            tail->next = newNode;
-            tail = newNode;
+            cout << temp->data << " -> ";
+            temp = temp->next;
         }
+        cout << "NULL" << endl;
     }
 
     Node *reverseKGroup(Node *head, int k)
@@ -47,10 +58,10 @@ public:
         Node *temp = head;
         int count = 0;
 
-        // check if k nodes exist
+        // Check if there are at least k nodes ahead
         while (count < k)
         {
-            if (temp == NULL)
+            if (temp == nullptr)
             {
                 return head;
             }
@@ -58,13 +69,12 @@ public:
             count++;
         }
 
-        // recursive call for rest of linked list
+        // Recursive call for the next group
         Node *prevNode = reverseKGroup(temp, k);
 
-        // reverse current group
+        // Reverse current k nodes
         temp = head;
         count = 0;
-
         while (count < k)
         {
             Node *next = temp->next;
@@ -73,50 +83,35 @@ public:
             temp = next;
             count++;
         }
-
         return prevNode;
     }
 
-    void printLL(Node *head) // to print linked list
+    void reverseInGroups(int k)
     {
-        Node *temp = head;
-
-        while (temp != NULL)
-        {
-            cout << temp->data << " -> ";
-            temp = temp->next;
-        }
-        cout << "NULL" << endl;
-    }
-
-    Node* getHead() {
-        return head;
-    }
-    
-    void setHead(Node* newHead) {
-        head = newHead;
+        head = reverseKGroup(head, k);
     }
 };
 
 int main()
 {
-    List ll;
+    List myList;
 
-    ll.push_back(1);
-    ll.push_back(2);
-    ll.push_back(3);
-    ll.push_back(4);
-    ll.push_back(5);
+    myList.push_back(1);
+    myList.push_back(2);
+    myList.push_back(3);
+    myList.push_back(4);
+    myList.push_back(5);
+    myList.push_back(6);
+    myList.push_back(7);
 
-    cout << "Original Linked List: ";
-    ll.printLL(ll.getHead());
+    cout << "Original list: ";
+    myList.printList();
 
-    int k = 2; // Group size for reversal
-    Node *newHead = ll.reverseKGroup(ll.getHead(), k);
-    ll.setHead(newHead);
+    int k = 3;
+    myList.reverseInGroups(k);
 
-    cout << "Reversed Linked List in groups of " << k << ": ";
-    ll.printLL(ll.getHead());
+    cout << "Reversed in groups of " << k << ": ";
+    myList.printList();
 
     return 0;
 }

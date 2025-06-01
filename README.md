@@ -85,6 +85,7 @@ Implementation of Linked List and solutions to various Leetcode problems with di
 - [ ] **Middle of Linked List** - leetcode 876
 - [ ] **Reverse Linked List** - problem 206 in leetcode
 - [ ] **Reverse Nodes in K Group** - leetcode 25 using recursion
+- [ ] **Swap Nodes in Pairs** - leetcode 24
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating and use of **recursion in problem-solving techniques**

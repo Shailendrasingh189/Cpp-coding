@@ -75,17 +75,26 @@ Implementation of strings and **solutions to various LeetCode problems with diff
 #### 🔹[Linked-List](./LinkedList/)
 Implementation of Linked List and solutions to various Leetcode problems with different approaches.
 
-- [ ] **Detect Cycle in Linked List** - leetcode 141
-- [ ] **Doubly Linked List** - Doubly linked list implementation
 - [ ] **Circular Linked List** - Implementation of circular linked list
 - [ ] **Copy List with random pointer** - leetcode 138 
 - [ ] **Cycle in Linked List II** - leetcode 142, Find start node of cycle
+- [ ] **Detect Cycle in Linked List** - leetcode 141
+- [ ] **Doubly Linked List** - Doubly linked list implementation
+- [ ] **Flatten a Multilevel Doubly Linked List** - Leetcode 430
 - [ ] **Single Linked-List** - program for linked list implementation 
 - [ ] **Merge Two sorted lists** - leetcode 21
 - [ ] **Middle of Linked List** - leetcode 876
 - [ ] **Reverse Linked List** - problem 206 in leetcode
 - [ ] **Reverse Nodes in K Group** - leetcode 25 using recursion
 - [ ] **Swap Nodes in Pairs** - leetcode 24
+
+#### 🔹 [Stack](./Stack/)  
+Implementation of Stack and solutions to **various Leetcode problems with different approaches**
+
+- [ ] **Stack using vector** - stack implementation using vector
+- [ ] **Stack using Linked list** - stack implementation using Linked-list
+- [ ] **Stack using STL** - stack implementation using STL library
+- [ ] **Valid Parenthesies** - leetcode 20
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating and use of **recursion in problem-solving techniques**

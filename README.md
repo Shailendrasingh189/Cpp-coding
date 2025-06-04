@@ -93,6 +93,7 @@ Implementation of Stack and solutions to **various Leetcode problems with differ
 
 - [ ] **Next Greater Element** - next greate element problem
 - [ ] **Next Greater Element** - leetcode 496
+- [ ] **Previous Smaller Element** - Previous smaller element problem
 - [ ] **Stack using vector** - stack implementation using vector
 - [ ] **Stack using Linked list** - stack implementation using Linked-list
 - [ ] **Stack using STL** - stack implementation using STL library

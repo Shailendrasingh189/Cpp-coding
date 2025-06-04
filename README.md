@@ -91,7 +91,8 @@ Implementation of Linked List and solutions to various Leetcode problems with di
 #### 🔹 [Stack](./Stack/)  
 Implementation of Stack and solutions to **various Leetcode problems with different approaches**
 
-- [ ] **Next Greater Element** - next greate element problem
+- [ ] **Design Min Stack** - design min stack problem using pair
+- [ ] **Next Greater Element** - next greater element problem
 - [ ] **Next Greater Element** - leetcode 496
 - [ ] **Previous Smaller Element** - Previous smaller element problem
 - [ ] **Stack using vector** - stack implementation using vector

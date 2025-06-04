@@ -91,10 +91,12 @@ Implementation of Linked List and solutions to various Leetcode problems with di
 #### 🔹 [Stack](./Stack/)  
 Implementation of Stack and solutions to **various Leetcode problems with different approaches**
 
+- [ ] **Next Greater Element** - next greate element problem
+- [ ] **Next Greater Element** - leetcode 496
 - [ ] **Stack using vector** - stack implementation using vector
 - [ ] **Stack using Linked list** - stack implementation using Linked-list
 - [ ] **Stack using STL** - stack implementation using STL library
-- [ ] **Stock Span** - problem solved by stack
+- [ ] **Stock Span** - stock span problem
 - [ ] **Valid Parenthesies** - leetcode 20
 
 #### 🔹 [Recursion](./Recursion/)  

@@ -16,7 +16,7 @@ int largestRectangleArea(vector<int> &heights)
         {
             s.pop();
         }
-        right[i] = s.empty() ? -1 : s.top();
+        right[i] = s.empty() ? n : s.top();
         s.push(i);
     }
 
@@ -26,13 +26,13 @@ int largestRectangleArea(vector<int> &heights)
     }
 
     // left smaller
-    for (int i = 1; i < n; i++)
+    for (int i = 0; i < n; i++)
     {
         while (s.size() > 0 && heights[s.top()] >= heights[i])
         {
             s.pop();
         }
-        right[i] = s.empty() ? -1 : s.top();
+        left[i] = s.empty() ? -1 : s.top();
         s.push(i);
     }
 
@@ -40,7 +40,7 @@ int largestRectangleArea(vector<int> &heights)
 
     for (int i = 0; i < n; i++)
     {
-        int width = right[i] - left[i];
+        int width = right[i] - left[i] -1;
         int currArea = heights[i] * width;
         ans = max(ans, currArea);
     }

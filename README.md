@@ -95,7 +95,8 @@ Implementation of Stack and solutions to **various Leetcode problems with differ
 - [ ] **Design Min Stack** - with moroe optimal solution, leetcode 155
 - [ ] **Largest Rectangle in Histogram** - leetcode 84
 - [ ] **Next Greater Element** - next greater element problem
-- [ ] **Next Greater Element** - leetcode 496
+- [ ] **Next Greater ElementI** - leetcode 496
+- [ ] **Next Greater ElementII** - leetcode 503
 - [ ] **Previous Smaller Element** - Previous smaller element problem
 - [ ] **Stack using vector** - stack implementation using vector
 - [ ] **Stack using Linked list** - stack implementation using Linked-list

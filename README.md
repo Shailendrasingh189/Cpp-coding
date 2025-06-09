@@ -102,6 +102,7 @@ Implementation of Stack and solutions to **various Leetcode problems with differ
 - [ ] **Stack using Linked list** - stack implementation using Linked-list
 - [ ] **Stack using STL** - stack implementation using STL library
 - [ ] **Stock Span** - stock span problem
+- [ ] **Trappingn Rain water** - leetcode 42 (using prefix array)
 - [ ] **Valid Parenthesies** - leetcode 20
 
 #### 🔹 [Recursion](./Recursion/)  

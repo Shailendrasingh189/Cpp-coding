@@ -91,6 +91,7 @@ Implementation of Linked List and solutions to various Leetcode problems with di
 #### 🔹 [Stack](./Stack/)  
 Implementation of Stack and solutions to **various Leetcode problems with different approaches**
 
+- [ ] **Celebrity Problem** - Celebrity problem solved using stack
 - [ ] **Design Min Stack** - design min stack problem using pair, leetcode 155
 - [ ] **Design Min Stack** - with moroe optimal solution, leetcode 155
 - [ ] **Largest Rectangle in Histogram** - leetcode 84

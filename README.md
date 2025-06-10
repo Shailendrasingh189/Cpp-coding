@@ -113,8 +113,9 @@ Implementation of Queue and solutions to **various Leetcode problems with differ
 - [ ] **Circular Queue** - circular queue implementation using array
 - [ ] **Queue Intro** - Queue Implementation using linked list
 - [ ] **Queue Intro 2** - Queue Implementation using STL
+- [ ] **Queue using Stacks** - leetcode 232 
 - [ ] **Deque** - Deque Implementation using STL
-- [ ] **Stack using Queue** - leetcode 225 
+- [ ] **Stack using Queues** - leetcode 225 
 
 
 #### 🔹 [Recursion](./Recursion/)  

@@ -107,6 +107,11 @@ Implementation of Stack and solutions to **various Leetcode problems with differ
 - [ ] **Trapping Rain water** - leetcode 42 (using two pointer)
 - [ ] **Valid Parenthesies** - leetcode 20
 
+#### 🔹 [Queue](./Queue/)  
+Implementation of Queue and solutions to **various Leetcode problems with different approaches**
+
+- [ ] **Queue Intro** - Queue Implementation using linked list
+
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating and use of **recursion in problem-solving techniques**
 

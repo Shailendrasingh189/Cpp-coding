@@ -111,6 +111,8 @@ Implementation of Stack and solutions to **various Leetcode problems with differ
 Implementation of Queue and solutions to **various Leetcode problems with different approaches**
 
 - [ ] **Queue Intro** - Queue Implementation using linked list
+- [ ] **Queue STL** - Queue Implementation using STL
+
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating and use of **recursion in problem-solving techniques**

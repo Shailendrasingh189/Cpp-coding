@@ -110,6 +110,7 @@ Implementation of Stack and solutions to **various Leetcode problems with differ
 #### 🔹 [Queue](./Queue/)  
 Implementation of Queue and solutions to **various Leetcode problems with different approaches**
 
+- [ ] **Circular Queue** - circular queue implementation using array
 - [ ] **Queue Intro** - Queue Implementation using linked list
 - [ ] **Queue Intro 2** - Queue Implementation using STL
 - [ ] **Deque** - Deque Implementation using STL

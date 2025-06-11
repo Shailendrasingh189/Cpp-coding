@@ -111,6 +111,7 @@ Implementation of Stack and solutions to **various Leetcode problems with differ
 Implementation of Queue and solutions to **various Leetcode problems with different approaches**
 
 - [ ] **Circular Queue** - circular queue implementation using array
+- [ ] **First Unique Character** - leetcode 387
 - [ ] **Queue Intro** - Queue Implementation using linked list
 - [ ] **Queue Intro 2** - Queue Implementation using STL
 - [ ] **Queue using Stacks** - leetcode 232 

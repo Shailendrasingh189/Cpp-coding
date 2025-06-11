@@ -116,6 +116,7 @@ Implementation of Queue and solutions to **various Leetcode problems with differ
 - [ ] **Queue Intro 2** - Queue Implementation using STL
 - [ ] **Queue using Stacks** - leetcode 232 
 - [ ] **Deque** - Deque Implementation using STL
+- [ ] **Sliding Window Maximum** - leetcode 239
 - [ ] **Stack using Queues** - leetcode 225 
 
 

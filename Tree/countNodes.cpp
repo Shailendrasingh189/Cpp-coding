@@ -40,7 +40,7 @@ Node *buildTree(vector<int> preorder)
     return root;
 }
 
-// height of tree
+// count Nodes
 int countNodes(Node *root)
 {
     if (root == NULL)

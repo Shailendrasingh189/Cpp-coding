@@ -145,3 +145,5 @@ Programs demonstrating and use of **recursion in problem-solving techniques**
 Implementation of Tree and solutions to **various Leetcode problems with different approaches**
 
 - [ ] **Binary tree** - building binary tree and implementing different tree traversals.
+- [ ] **Height of Tree** - Calculate the height of tree
+- [ ] **Count Nodes** - Count no. of nodes in tree

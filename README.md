@@ -140,3 +140,8 @@ Programs demonstrating and use of **recursion in problem-solving techniques**
 - [ ] **Rat in a maze** - Rat in a maze using recursion
 - [ ] **Subsets II** - skip duplicates using recursion, leetcode 90
 - [ ] **Sudoku solver** - leetcode 37 using recursion
+
+#### 🔹 [Tree](./Tree/)  
+Implementation of Tree and solutions to **various Leetcode problems with different approaches**
+
+- [ ] **Binary tree** - building binary tree and implementing different tree traversals.

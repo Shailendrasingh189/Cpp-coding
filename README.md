@@ -156,3 +156,4 @@ Implementation of Tree and solutions to **various Leetcode problems with differe
 - [ ] **Same tree** - Trees are identical or not problem, leetcode 100
 - [ ] **Sum of Nodes** - Sum of all nodes data in a tree
 - [ ] **Top View of Binary Tree** - to find the tree nodes which are visible from the top
+-[ ] **Transform to Sum Tree** - transform binary tree to sum tree

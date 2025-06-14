@@ -145,6 +145,7 @@ Programs demonstrating and use of **recursion in problem-solving techniques**
 Implementation of Tree and solutions to **various Leetcode problems with different approaches**
 
 - [ ] **Binary tree** - building binary tree and implementing different tree traversals.
+- [ ] **Build Tree** - build tree using preorder and inorder
 - [ ] **Count Nodes** - Count no. of nodes in tree
 - [ ] **Diameter of Binary Tree** - leetcode 543
 - [ ] **Diameter of Binary Tree2** - leetcode 543(more optimal approach)

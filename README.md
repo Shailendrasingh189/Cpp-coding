@@ -154,6 +154,7 @@ Implementation of Tree and solutions to **various Leetcode problems with differe
 - [ ] **Kth Level of the tree** - to print nodes of kth level of tree
 - [ ] **Lowest common ancestor of a binary tree** - leetcode 236
 - [ ] **Max Width Of Binary Tree** - leetcode 662
+- [ ] **Morris Inorder Traversal** - leetcode 94
 - [ ] **SubTree or not** - find out subtree tree is of another tree, leetcode 572
 - [ ] **Same tree** - Trees are identical or not problem, leetcode 100
 - [ ] **Sum of Nodes** - Sum of all nodes data in a tree

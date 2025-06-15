@@ -2,6 +2,7 @@
 #include <vector>
 #include <queue>
 using namespace std;
+// Max width of tree - TC - O(n)
 
 // Node class
 class Node
@@ -43,7 +44,7 @@ Node *buildTree(vector<int> preorder)
 
 int maxWidthOfBinaryTree(Node *root)
 {
-    queue<pair<Node *, int>> q;
+    queue<pair<Node *, unsigned long long>> q;
     q.push({root, 0});
 
     int maxWidth = 0;
@@ -51,10 +52,10 @@ int maxWidthOfBinaryTree(Node *root)
     while (q.size() > 0)
     {
         int currLevelSize = q.size();
-        int stIdx = q.front().second;
-        int endIdx = q.back().second;
+        unsigned long long stIdx = q.front().second;
+        unsigned long long endIdx = q.back().second;
 
-        maxWidth = max(maxWidth, endIdx - stIdx + 1);
+        maxWidth = max(maxWidth, (int)(endIdx - stIdx + 1));
 
         for (int i = 0; i < currLevelSize; i++)
         {

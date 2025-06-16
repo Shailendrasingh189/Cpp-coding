@@ -46,7 +46,7 @@ void flatten(Node *root)
     flatten(root->right);
     flatten(root->left);
 
-    root->left;
+    root->left = NULL;
     root->right = nextRight;
     nextRight = root;
 }

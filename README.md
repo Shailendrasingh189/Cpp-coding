@@ -146,6 +146,7 @@ Implementation of Tree and solutions to **various Leetcode problems with differe
 
 - [ ] **Binary tree** - building binary tree and implementing different tree traversals.
 - [ ] **Binary Tree Paths** - leetcode 257
+- [ ] **Build BST** - build Binary Search Tree in which insert, search, traversal, delete
 - [ ] **Build Tree** - build tree using preorder and inorder
 - [ ] **Count Nodes** - Count no. of nodes in tree
 - [ ] **Diameter of Binary Tree** - leetcode 543

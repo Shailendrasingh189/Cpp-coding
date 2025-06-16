@@ -144,6 +144,7 @@ Programs demonstrating and use of **recursion in problem-solving techniques**
 #### 🔹 [Tree](./Tree/)  
 Implementation of Tree and solutions to **various Leetcode problems with different approaches**
 
+- [ ] **Sorted Array to balanced BST** - leetcode 108
 - [ ] **Binary tree** - building binary tree and implementing different tree traversals.
 - [ ] **Binary Tree Paths** - leetcode 257
 - [ ] **Build BST** - build Binary Search Tree in which insert, search, traversal, delete

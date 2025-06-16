@@ -150,6 +150,7 @@ Implementation of Tree and solutions to **various Leetcode problems with differe
 - [ ] **Count Nodes** - Count no. of nodes in tree
 - [ ] **Diameter of Binary Tree** - leetcode 543
 - [ ] **Diameter of Binary Tree2** - leetcode 543(more optimal approach)
+- [ ] **Flatten Binary Tree To Linked List** - leetcode 114
 - [ ] **Height of Tree** - Calculate the height of tree
 - [ ] **Kth Level of the tree** - to print nodes of kth level of tree
 - [ ] **Lowest common ancestor of a binary tree** - leetcode 236

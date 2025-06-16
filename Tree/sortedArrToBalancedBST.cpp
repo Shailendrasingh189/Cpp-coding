@@ -60,7 +60,7 @@ int main()
 
     Node *root = sortedArrayToBST(arr);
 
-    cout << "In-order Traversal of Balanced BST: ";
+    cout << "Pre-order Traversal of Balanced BST: ";
     preorder(root);
     cout << endl;
 
